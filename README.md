@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [Твое Имя]
+### Hi there! 👋 I'm Andrei Trusau
 
 I am a **Junior Security Specialist** and **Web Developer** with a passion for making the web safer.
 My background includes 3 years of commercial Frontend experience and intensive training in Ethical Hacking.
@@ -6,7 +6,7 @@ My background includes 3 years of commercial Frontend experience and intensive t
 - 🔭 I’m currently working on: **Web Security Research & CTFs**
 - 🌱 I’m currently learning: **Python for Automation & Network Penetration**
 - 💬 Ask me about: **HTML/CSS, WordPress Security, OWASP Top 10**
-- 📫 How to reach me: **[Твой Email]**
+- 📫 How to reach me: **trusauweb@gmail.com**
 
 ### 🛠 Tech Stack
 

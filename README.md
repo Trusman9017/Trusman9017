@@ -1,12 +1,12 @@
 ### Hi there! 👋 I'm Andrei Trusau
 
-I am a **Junior Security Specialist** and **Web Developer** with a passion for making the web safer.
-My background includes 3 years of commercial Frontend experience and intensive training in Ethical Hacking.
+I'm a WordPress Developer & SEO Specialist with a background in brand strategy and content systems. I combine technical website work with search optimization and a strategic understanding of how content drives business goals.
 
-- 🔭 I’m currently working on: **Web Security Research & CTFs**
-- 🌱 I’m currently learning: **Python for Automation & Network Penetration**
-- 💬 Ask me about: **HTML/CSS, WordPress Security, OWASP Top 10**
-- 📫 How to reach me: **trusauweb@gmail.com**
+- 🔭 Currently working on: **WordPress/Elementor builds & technical SEO audits**
+- 🌱 Background in: **Brand strategy, competitive content analysis, e-commerce strategy**
+- 💬 Ask me about: **WordPress, Technical SEO, Schema markup, Content strategy**
+- 🌐 Portfolio: https://trusman9017.github.io/Trusau-portfolio/
+- 📫 Reach me: trusauweb@gmail.com
 
 ### 🛠 Tech Stack
 
@@ -14,7 +14,7 @@ My background includes 3 years of commercial Frontend experience and intensive t
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-EB5C20?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ---
-*Open to work opportunities in Web Security and Frontend Development.*
+
+Open to WordPress, SEO, and content strategy projects.
